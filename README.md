@@ -1,1 +1,2 @@
-# GamoFingo.github.io
+# GamoFingo
+GamoFingo is a website for helping gamers. 
