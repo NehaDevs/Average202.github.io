@@ -1,0 +1,41 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+}
+header{
+  color: white;
+  text-align: center;
+}
+.homebutton1{
+  background-color: black;
+  font-size: 20px ;
+  display: inline-block;
+  border-color: white;
+  border-width: 3px;
+  border-radius: 20px;
+  margin-bottom: 1px;
+  border: solid;
+  border-width: medium;
+  color: white;
+  width: 250px;
+  height: 45px;
+}
+.homebutton2{
+  background-color: black;
+  font-size: 20px ;
+  display: inline-block;
+  margin-top: 1px;
+  border-color: white;
+  border-radius: 20px;
+  border: solid;
+  color: white;
+  width: 250px;
+  border-width : medium;
+  height: 45px;
+  
+}
+
+.middle{
+  text-align: center;
+  padding-top: 50%;
+}
