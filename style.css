@@ -35,7 +35,20 @@ header{
   border-width : 4px;
   height: 45px;
   cursor: none;
-  
+}
+.homebutton3{
+  background-color: black;
+  color: white;
+  width: 250px;
+  height: 45px;
+  cursor: none;
+  border-color: white;
+  border-radius: 20px;
+  font-size: 20px;
+  border: solid;
+  margin-top: 2px;
+  display: inline-block;
+  border-width: 4px;
 }
 
 .middle{
@@ -48,9 +61,11 @@ header{
 .homebutton2:hover{
   background-color: #1D1919;
 }
+.homebutton3:hover{
+  background-color: #1D1919;
+}
 .gamodetails{
   text-align: center;
   color: #ffffff;
   font-size: 25px;
-  
 }
