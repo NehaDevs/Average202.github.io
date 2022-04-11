@@ -8,6 +8,20 @@ header {
   font-size: 50px;
   text-align: center;
 }
-.aboutp{
+.aboutp1{
   color: white;
+  font-size: 20px;
+}
+.aboutl{
+  color: white;
+  font-size: 20px;
+}
+.aboutp2{
+  border-left: solid;
+  border-color: #F41515;
+  border-width: 4px;
+  margin-left: 3px;
+  padding-left: 5px;
+  border-radius: 3px;
+  background-color: #191616;
 }
