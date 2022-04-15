@@ -25,26 +25,20 @@ body {
   border-bottom: none;
 }
 
-.left-nav{
-
-}
 
 .menu{
   display: none;
   flex: 1 1 0%;
   justify-content: flex-end;
   margin: 0 -16px;
+  margin-top: 8px;
   padding-left: 10px;
-}
-.menu2 a{
-  text-decoration: none;
-  color: white;
 }
 .menu a {
   color: #FFF;
   margin: 0 16px;
   font-weight: 600;
-  font-size: 25px;
+  font-size: 30px;
   font-family: 'IBM Plex Sans Devanagari', sans-serif;
   text-decoration: none;
   transition: 0.4s;
@@ -68,8 +62,14 @@ h1 a{
   text-decoration: none;
   color: white;
   cursor: none;
-  font-size: 40px;
+  font-size: 60px;
   font-family: 'Raleway', sans-serif;
+}
+h1 span{
+  color: #6CCEFD;
+}
+.headcolor{
+  color: #7BC6EA;
 }
 .log{
   background-color: black;
@@ -85,6 +85,7 @@ h1 a{
 }
 .details{
   margin-top: 250px;
+  margin-left: 20px;
   color: #fff;
   font-size: 100px;
   font-weight: bold;
@@ -103,4 +104,14 @@ h1 a{
   height: 80px;
   width: 350px;
   
+}
+.aboutdiv{
+  text-align: center;
+  margin-top: 100px;
+}
+.aboutHeading{
+  color: #fff;
+  font-size: 95px;
+  font-weight: bold;
+  font-family: 'Roboto Slab', serif;
 }
